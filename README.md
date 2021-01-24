@@ -1,1 +1,3 @@
-# binfreshmanchester
+---
+permalink: /index.html
+---
